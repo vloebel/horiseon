@@ -11,11 +11,11 @@
 * Vicky Loebel (vickyloebel@gmail.com)
 
 ### Overview
-This project is to develop a website highlighting the services and benefits provided by Horiseon.com. The site must conform to accessibililty standards with an emphasis on search engine optimization.  
+This project is to develop a website highlighting the services and benefits provided by Horiseon. The site must conform to accessibililty standards with an emphasis on search engine optimization.  
 
 ### Highlighted Horiseon Services  
 * Search Engine Optimization  
-* Online Reputation Managemet  
+* Online Reputation Management  
 * Social Media Marketing  
 
 ### Benefits of Working with Horiseon 
