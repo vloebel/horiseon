@@ -8,6 +8,8 @@
 </head>
 
 <body>
+
+    <!-- Header and Navigation -->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
@@ -25,13 +27,15 @@
         </div>
     </header>
 
-    <!-- Hero is background image in css -->
+    <!--Hero is a background image in css. Leave there to allow
+        for future implementation of parallax scrolling-->
+
     <div class="hero"></div> 
 
     <!-- Overview of Horiseon Services -->
     <section class="content">
 
-        <section class="search-engine-optimization">
+        <section id="search-engine-optimization" class="services">
             <img src="./assets/images/search-engine-optimization.jpg" alt="Search engine optimization planner" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -39,7 +43,7 @@
             </p>
         </section>
 
-        <section id="online-reputation-management" class="online-reputation-management">
+        <section id="online-reputation-management" class="services">
             <img src="./assets/images/online-reputation-management.jpg" alt="Graph of rising reputation" class="float-right" />
             <h2>Online Reputation Management</h2>
             <p>
@@ -47,7 +51,7 @@
             </p>
         </section>
 
-        <section id="social-media-marketing" class="social-media-marketing">
+        <section id="social-media-marketing" class="services">
             <img src="./assets/images/social-media-marketing.jpg" alt="People sharing online content" class="float-left" />
             <h2>Social Media Marketing</h2>
             <p>
@@ -57,23 +61,23 @@
     </section>
     <!-- Benefits of working with Horiseon -->
     <section class="benefits">
-        <secton class="benefit-lead">
+        <secton class="benefit-type">
             <h3>Lead Generation</h3>
-            <img src="./assets/images/lead-generation.png" />
+            <img src="./assets/images/lead-generation.png" alt="" />
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
         </secton>
-        <section class="benefit-brand">
+        <section class="benefit-type">
             <h3>Brand Awareness</h3>
-            <img src="./assets/images/brand-awareness.png" />
+            <img src="./assets/images/brand-awareness.png" alt=""/>
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
             </p>
         </section>
-        <section class="benefit-cost">
+        <section class="benefit-type">
             <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png"></img>
+            <img src="./assets/images/cost-management.png" alt=""></img>
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
