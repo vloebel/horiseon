@@ -1,4 +1,4 @@
-![Client Logo](./assets/client/logo.png)
+![Client Logo](./assets/client/horiseon-logo.png)
 # Horiseon Company Website
 ## U of A Bootcamp, December 2020
 
