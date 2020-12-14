@@ -35,7 +35,7 @@ header h1 .seo-text {
     color: #d9dcd6;
 }
 
-/* Navigatio menu */
+/* Navigation menu */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -53,8 +53,8 @@ header div ul li {
     margin-left: 25px;
 }
 
-/* Hero image is here, presumably
-to allow for future parallax scrolling */
+/* Hero image is here for use on multiple pages 
+   could also implement parallax scrolling */
 .hero {
     height: 800px;
     width: 100%;
